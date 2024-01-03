@@ -1,4 +1,4 @@
-# Majidul Islam Chowdhury
+
 
 ## PROFILE
 As a skilled and motivated Computer Science undergraduate with expertise in programming and eagerness to learn new technologies, I actively seek opportunities to utilize my knowledge in a professional environment. Excited to contribute to a dynamic team and make a meaningful impact in my career journey.
