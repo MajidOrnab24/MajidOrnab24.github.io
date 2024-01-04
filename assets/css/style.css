@@ -372,6 +372,8 @@ h3 {
 
 .card {
   margin-bottom: 60px;
+  background-color: #0077b5;
+  opacity: 0.3;
 }
 
 .card .role {
