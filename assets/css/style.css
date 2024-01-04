@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #236dff;
+  color: #037ff3;
 }
 
 /* main blockqoute */
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(46, 147, 224);
+  color: rgb(56, 156, 232);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #1c69cf !important;
+  color: #2371d7 !important;
 }
 
 /* .teal-text {
