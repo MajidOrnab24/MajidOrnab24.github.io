@@ -43,7 +43,7 @@ As a skilled and motivated Computer Science undergraduate with expertise in prog
 - **Location:** Uttara, Dhaka, Bangladesh
 - **GitHub:** [MajidOrnab24](https://github.com/MajidOrnab24)
 - **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/majidul-islam-chowdhury)
-- **Phone:** 01794676569
+
 
 ## LANGUAGES
 - Bangla
