@@ -24,7 +24,7 @@ As a skilled and motivated Computer Science undergraduate with expertise in prog
 - Demonstrated a commitment to learning and a passion for creating captivating gaming experiences.
 
 ## RESEARCH
-**Federated Learning and Deep Learning in Healthcare**
+**Deep Learning in Healthcare**
 - _2023 – Present_
 - Engaged in the NDAG (Networking and Data Analysis Group) at my university, conducting research on Medical Health using cutting-edge Deep Learning Models and using Federated Learning for achieving privacy preservation.
 - Dedicated to achieving remarkable success in my future endeavors by continuously striving to contribute impactful work in this field.
@@ -35,11 +35,11 @@ As a skilled and motivated Computer Science undergraduate with expertise in prog
 - **Web Development:** HTML, CSS, Django
 - **Cloud Computing:** Microsoft Azure
 - **Database:** SQL, MySQL, PL/SQL, Oracle
-- **Machine Learning & Deep Learning:** NumPy, Pandas, PyTorch, Keras, Scikit-learn, TensorFlow
+- **Machine Learning & Deep Learning:** NumPy, Pandas, Keras, Scikit-learn, TensorFlow
 - **Development Tools:** Git, MySQL, Figma, Jira, Unix/Linux
 
 ## CONTACT
-- **Email:** majidulislam1824@gmail.com
+- **Email:** majidul.i.chowdhury@gmail.com
 - **Location:** Uttara, Dhaka, Bangladesh
 - **GitHub:** [MajidOrnab24](https://github.com/MajidOrnab24)
 - **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/majidul-islam-chowdhury)
@@ -50,6 +50,10 @@ As a skilled and motivated Computer Science undergraduate with expertise in prog
 - English
 
 ## PROJECTS
+### Real-Time Multilingual Healthcare Translation
+- Bridging communication gaps between patients and healthcare providers to improve healthcare accessibility and outcomes.
+- Leveraging generative AI to deliver accurate, real-time translations for effective medical consultations.
+
 ### Disease Prediction Based on Symptoms
 - Advancing early disease detection by simplifying healthcare access and preserving lives through remote symptom-based assessment.
 - Enhancing disease prediction through an efficient machine learning framework utilizing symptom analysis.
